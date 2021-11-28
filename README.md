@@ -1,2 +1,2 @@
-# Giga Gigauri
+Giga Gigauri
 My First Project
